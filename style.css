@@ -22,9 +22,8 @@ body{
 }
 
 img{
-    max-width: 80vw;
+    max-width: 50vw;
 }
-
 
 
 .background{
@@ -39,7 +38,7 @@ img{
 }
 
 #ellipse_1{
-    position: absolute;
+    position: fixed;
     width: 1366px;
     height: 650px;
     left: 654px;
@@ -50,7 +49,7 @@ img{
 }
 
 #ellipse_2{
-    position: absolute;
+    position: fixed;
     width: 1303.66px;
     height: 600;
     left: -308.63px;
@@ -62,7 +61,7 @@ img{
 }
 
 #ellipse_3{
-    position: absolute;
+    position: fixed;
     width: 1173.16px;
     height: 773.59px;
     left: -335.73px;
@@ -73,7 +72,7 @@ img{
 }
 
 #ellipse_4{
-    position: absolute;
+    position: fixed;
     width: 1861.1px;
     height: 430px;
     left: -95.5px;
@@ -84,7 +83,7 @@ img{
 }
 
 #ellipse_5{
-    position: absolute;
+    position: fixed;
     width: 591px;
     height: 530px;
     left: -319px;
